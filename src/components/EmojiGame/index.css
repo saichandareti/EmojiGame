@@ -1,0 +1,20 @@
+.main-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container {
+  height: 100vh;
+  width: 60%;
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+}
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 30px;
+}
